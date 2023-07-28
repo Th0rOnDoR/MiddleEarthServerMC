@@ -3,15 +3,15 @@
 Here are 2 working server for Minecraft, with LoTR mod legacy ( https://www.curseforge.com/minecraft/mc-mods/the-lord-of-the-rings-mod-legacy ).
 Both of them are meant to be used with the Complete Middle Earth project  (https://www.planetminecraft.com/project/middle-earth-complete-map-with-story-quest-s/)
 
-Because of GitHub restrictions, i can't upload the map
+Because of GitHub restrictions, i can't upload the map directly
 
 # How To Install
-This is WIP
-the map is store on Gdrive.
 
-https://drive.google.com/file/d/1AO5CbePVGuJSL6v3tExbVxmZxa4pm0Eq/view?usp=sharing is the Utumno part, you need to unzip it and place all the .mca files in world/Utumno (Forge) or world/DIM101 (Mohist)
+Clone this repo first, the map is store on Gdrive so you need to download it too
 
-https://drive.google.com/file/d/1AO5CbePVGuJSL6v3tExbVxmZxa4pm0Eq/view?usp=sharing is the MiddleEarth part, you need to unzip it and place all the .mca files in world/MiddleEarth(Forge) or world/DIM100 (Mohist)
+[Utumno](https://drive.google.com/file/d/1AO5CbePVGuJSL6v3tExbVxmZxa4pm0Eq/view?usp=sharing) is the Utumno part, you need to unzip it and place all the .mca files in world/Utumno (Forge) or world/DIM101 (Mohist)
+
+[MiddleEarth](https://drive.google.com/file/d/19xWdBiw1Pz7J-x5GaP2rHMHu-n_PARqT/view?usp=sharing) is the MiddleEarth part, you need to unzip it and place all the .mca files in world/MiddleEarth(Forge) or world/DIM100 (Mohist)
 
 # How To Use (This is currently WIP)
 
