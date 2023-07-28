@@ -10,6 +10,7 @@ This is WIP
 the map is store on Gdrive.
 
 https://drive.google.com/file/d/1AO5CbePVGuJSL6v3tExbVxmZxa4pm0Eq/view?usp=sharing is the Utumno part, you need to unzip it and place all the .mca files in world/Utumno (Forge) or world/DIM101 (Mohist)
+
 https://drive.google.com/file/d/1AO5CbePVGuJSL6v3tExbVxmZxa4pm0Eq/view?usp=sharing is the MiddleEarth part, you need to unzip it and place all the .mca files in world/MiddleEarth(Forge) or world/DIM100 (Mohist)
 
 # How To Use (This is currently WIP)
