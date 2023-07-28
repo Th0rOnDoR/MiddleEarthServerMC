@@ -1,4 +1,7 @@
 */libraries/*
 */logs/*
 */timings/*
-*.mca
+*Forge/world/MiddleEarth/region/*
+*Forge/world/Utumno/region/*
+*Mohist/world/DIM100/region/*
+*Mohist/world/DIM101/region/*
