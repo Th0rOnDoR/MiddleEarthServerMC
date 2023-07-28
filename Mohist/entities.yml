@@ -22,15 +22,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityChicken:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntityCow:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntitySheep:
+    net-minecraft-entity-passive-EntityPig:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -38,19 +30,27 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityPig:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     net-minecraft-entity-passive-EntityWolf:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-npc-LOTREntityGandalf:
+    net-minecraft-entity-passive-EntitySquid:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-animal-LOTREntityButterfly:
+    net-minecraft-entity-monster-EntitySkeleton:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityChicken:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntitySpider:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -58,7 +58,23 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-npc-LOTREntityHobbit:
+    net-minecraft-entity-monster-EntityZombie:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityWitch:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityEnderman:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityHorse:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntitySheep:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -74,11 +90,11 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-item-LOTREntityBannerWall:
+    lotr-common-entity-npc-LOTREntityGandalf:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-animal-LOTREntityRabbit:
+    lotr-common-entity-item-LOTREntityBannerWall:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -90,11 +106,11 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-animal-LOTREntityFish:
+    lotr-common-entity-npc-LOTREntityHobbit:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-npc-LOTREntityHobbitBounder:
+    net-minecraft-entity-passive-EntityCow:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -102,15 +118,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-animal-LOTREntityBird:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-npc-LOTREntityIronHillsMerchant:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-npc-LOTREntityDwarf:
+    lotr-common-entity-npc-LOTREntityHobbitBounder:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -134,11 +142,35 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-animal-LOTREntityAurochs:
+    net-minecraft-entity-item-EntityFallingBlock:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-item-EntityFallingBlock:
+    lotr-common-entity-animal-LOTREntityButterfly:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-animal-LOTREntityRabbit:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-animal-LOTREntityFish:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-animal-LOTREntityBird:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityIronHillsMerchant:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityDwarf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-animal-LOTREntityAurochs:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -151,34 +183,6 @@ world-settings:
       never-ever-tick: false
       tick-interval: 1
     bl4ckscor3-mod-sit-EntitySit:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntitySkeleton:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntitySquid:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntityCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntityZombie:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntitySpider:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntityEnderman:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntityWitch:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -283,10 +287,6 @@ world-settings:
       never-ever-tick: false
       tick-interval: 1
     net-minecraft-entity-monster-EntitySlime:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntityHorse:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
