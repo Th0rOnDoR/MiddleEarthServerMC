@@ -1,0 +1,1198 @@
+{
+    "TransportData": [
+        {
+            "Transport": 3
+        },
+        {
+            "Transport": 4
+        },
+        {
+            "Transport": 5
+        }
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 1
+        }
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 20960746L
+            },
+            {
+                "Quest": 3,
+                "Date": 28865549L
+            },
+            {
+                "Quest": 4,
+                "Date": 18331290L
+            },
+            {
+                "Quest": 5,
+                "Date": 18336096L
+            },
+            {
+                "Quest": 6,
+                "Date": 18387717L
+            },
+            {
+                "Quest": 7,
+                "Date": 18444490L
+            },
+            {
+                "Quest": 8,
+                "Date": 18396592L
+            },
+            {
+                "Quest": 9,
+                "Date": 25428526L
+            },
+            {
+                "Quest": 10,
+                "Date": 25428828L
+            },
+            {
+                "Quest": 11,
+                "Date": 18432070L
+            },
+            {
+                "Quest": 14,
+                "Date": 25838360L
+            },
+            {
+                "Quest": 17,
+                "Date": 18785634L
+            },
+            {
+                "Quest": 18,
+                "Date": 18400653L
+            },
+            {
+                "Quest": 19,
+                "Date": 18439764L
+            },
+            {
+                "Quest": 21,
+                "Date": 25447728L
+            },
+            {
+                "Quest": 22,
+                "Date": 25838862L
+            },
+            {
+                "Quest": 24,
+                "Date": 18235350L
+            },
+            {
+                "Quest": 25,
+                "Date": 18473618L
+            },
+            {
+                "Quest": 26,
+                "Date": 25438834L
+            },
+            {
+                "Quest": 27,
+                "Date": 18625524L
+            },
+            {
+                "Quest": 29,
+                "Date": 18652082L
+            },
+            {
+                "Quest": 30,
+                "Date": 18655000L
+            },
+            {
+                "Quest": 31,
+                "Date": 18673881L
+            },
+            {
+                "Quest": 32,
+                "Date": 18674612L
+            },
+            {
+                "Quest": 33,
+                "Date": 18676928L
+            },
+            {
+                "Quest": 34,
+                "Date": 18682016L
+            },
+            {
+                "Quest": 35,
+                "Date": 23095665L
+            },
+            {
+                "Quest": 36,
+                "Date": 15084719L
+            },
+            {
+                "Quest": 37,
+                "Date": 18716259L
+            },
+            {
+                "Quest": 38,
+                "Date": 18699969L
+            },
+            {
+                "Quest": 39,
+                "Date": 18719891L
+            },
+            {
+                "Quest": 40,
+                "Date": 18229856L
+            },
+            {
+                "Quest": 41,
+                "Date": 18631079L
+            },
+            {
+                "Quest": 43,
+                "Date": 18686353L
+            },
+            {
+                "Quest": 44,
+                "Date": 18686898L
+            },
+            {
+                "Quest": 45,
+                "Date": 18734940L
+            },
+            {
+                "Quest": 46,
+                "Date": 15404808L
+            },
+            {
+                "Quest": 47,
+                "Date": 15404920L
+            },
+            {
+                "Quest": 48,
+                "Date": 18724429L
+            },
+            {
+                "Quest": 49,
+                "Date": 18264417L
+            },
+            {
+                "Quest": 50,
+                "Date": 27518826L
+            },
+            {
+                "Quest": 51,
+                "Date": 18329081L
+            },
+            {
+                "Quest": 52,
+                "Date": 28931565L
+            },
+            {
+                "Quest": 53,
+                "Date": 18340134L
+            },
+            {
+                "Quest": 55,
+                "Date": 18427526L
+            },
+            {
+                "Quest": 56,
+                "Date": 18428229L
+            },
+            {
+                "Quest": 57,
+                "Date": 18425848L
+            },
+            {
+                "Quest": 58,
+                "Date": 18427140L
+            },
+            {
+                "Quest": 63,
+                "Date": 20781801L
+            },
+            {
+                "Quest": 64,
+                "Date": 26338461L
+            },
+            {
+                "Quest": 65,
+                "Date": 26339208L
+            },
+            {
+                "Quest": 66,
+                "Date": 25357826L
+            },
+            {
+                "Quest": 67,
+                "Date": 25417037L
+            },
+            {
+                "Quest": 69,
+                "Date": 25459497L
+            },
+            {
+                "Quest": 70,
+                "Date": 25462229L
+            },
+            {
+                "Quest": 71,
+                "Date": 25465761L
+            },
+            {
+                "Quest": 72,
+                "Date": 25470134L
+            },
+            {
+                "Quest": 73,
+                "Date": 25421632L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 15
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 22
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 26
+        },
+        {
+            "Dialog": 27
+        },
+        {
+            "Dialog": 28
+        },
+        {
+            "Dialog": 29
+        },
+        {
+            "Dialog": 30
+        },
+        {
+            "Dialog": 31
+        },
+        {
+            "Dialog": 32
+        },
+        {
+            "Dialog": 33
+        },
+        {
+            "Dialog": 34
+        },
+        {
+            "Dialog": 35
+        },
+        {
+            "Dialog": 36
+        },
+        {
+            "Dialog": 37
+        },
+        {
+            "Dialog": 38
+        },
+        {
+            "Dialog": 39
+        },
+        {
+            "Dialog": 40
+        },
+        {
+            "Dialog": 41
+        },
+        {
+            "Dialog": 42
+        },
+        {
+            "Dialog": 43
+        },
+        {
+            "Dialog": 44
+        },
+        {
+            "Dialog": 45
+        },
+        {
+            "Dialog": 46
+        },
+        {
+            "Dialog": 47
+        },
+        {
+            "Dialog": 48
+        },
+        {
+            "Dialog": 49
+        },
+        {
+            "Dialog": 50
+        },
+        {
+            "Dialog": 51
+        },
+        {
+            "Dialog": 52
+        },
+        {
+            "Dialog": 53
+        },
+        {
+            "Dialog": 54
+        },
+        {
+            "Dialog": 55
+        },
+        {
+            "Dialog": 56
+        },
+        {
+            "Dialog": 57
+        },
+        {
+            "Dialog": 59
+        },
+        {
+            "Dialog": 60
+        },
+        {
+            "Dialog": 61
+        },
+        {
+            "Dialog": 62
+        },
+        {
+            "Dialog": 63
+        },
+        {
+            "Dialog": 64
+        },
+        {
+            "Dialog": 65
+        },
+        {
+            "Dialog": 66
+        },
+        {
+            "Dialog": 67
+        },
+        {
+            "Dialog": 68
+        },
+        {
+            "Dialog": 69
+        },
+        {
+            "Dialog": 70
+        },
+        {
+            "Dialog": 71
+        },
+        {
+            "Dialog": 72
+        },
+        {
+            "Dialog": 73
+        },
+        {
+            "Dialog": 74
+        },
+        {
+            "Dialog": 75
+        },
+        {
+            "Dialog": 76
+        },
+        {
+            "Dialog": 77
+        },
+        {
+            "Dialog": 78
+        },
+        {
+            "Dialog": 79
+        },
+        {
+            "Dialog": 80
+        },
+        {
+            "Dialog": 81
+        },
+        {
+            "Dialog": 82
+        },
+        {
+            "Dialog": 83
+        },
+        {
+            "Dialog": 84
+        },
+        {
+            "Dialog": 85
+        },
+        {
+            "Dialog": 86
+        },
+        {
+            "Dialog": 87
+        },
+        {
+            "Dialog": 88
+        },
+        {
+            "Dialog": 89
+        },
+        {
+            "Dialog": 90
+        },
+        {
+            "Dialog": 91
+        },
+        {
+            "Dialog": 92
+        },
+        {
+            "Dialog": 93
+        },
+        {
+            "Dialog": 94
+        },
+        {
+            "Dialog": 95
+        },
+        {
+            "Dialog": 96
+        },
+        {
+            "Dialog": 97
+        },
+        {
+            "Dialog": 98
+        },
+        {
+            "Dialog": 99
+        },
+        {
+            "Dialog": 100
+        },
+        {
+            "Dialog": 101
+        },
+        {
+            "Dialog": 102
+        },
+        {
+            "Dialog": 103
+        },
+        {
+            "Dialog": 104
+        },
+        {
+            "Dialog": 105
+        },
+        {
+            "Dialog": 106
+        },
+        {
+            "Dialog": 107
+        },
+        {
+            "Dialog": 108
+        },
+        {
+            "Dialog": 109
+        },
+        {
+            "Dialog": 110
+        },
+        {
+            "Dialog": 111
+        },
+        {
+            "Dialog": 112
+        },
+        {
+            "Dialog": 113
+        },
+        {
+            "Dialog": 114
+        },
+        {
+            "Dialog": 115
+        },
+        {
+            "Dialog": 116
+        },
+        {
+            "Dialog": 117
+        },
+        {
+            "Dialog": 118
+        },
+        {
+            "Dialog": 119
+        },
+        {
+            "Dialog": 120
+        },
+        {
+            "Dialog": 121
+        },
+        {
+            "Dialog": 122
+        },
+        {
+            "Dialog": 123
+        },
+        {
+            "Dialog": 124
+        },
+        {
+            "Dialog": 125
+        },
+        {
+            "Dialog": 126
+        },
+        {
+            "Dialog": 127
+        },
+        {
+            "Dialog": 129
+        },
+        {
+            "Dialog": 130
+        },
+        {
+            "Dialog": 131
+        },
+        {
+            "Dialog": 132
+        },
+        {
+            "Dialog": 133
+        },
+        {
+            "Dialog": 134
+        },
+        {
+            "Dialog": 135
+        },
+        {
+            "Dialog": 136
+        },
+        {
+            "Dialog": 137
+        },
+        {
+            "Dialog": 138
+        },
+        {
+            "Dialog": 139
+        },
+        {
+            "Dialog": 140
+        },
+        {
+            "Dialog": 141
+        },
+        {
+            "Dialog": 142
+        },
+        {
+            "Dialog": 143
+        },
+        {
+            "Dialog": 144
+        },
+        {
+            "Dialog": 145
+        },
+        {
+            "Dialog": 146
+        },
+        {
+            "Dialog": 147
+        },
+        {
+            "Dialog": 148
+        },
+        {
+            "Dialog": 149
+        },
+        {
+            "Dialog": 150
+        },
+        {
+            "Dialog": 151
+        },
+        {
+            "Dialog": 152
+        },
+        {
+            "Dialog": 153
+        },
+        {
+            "Dialog": 154
+        },
+        {
+            "Dialog": 155
+        },
+        {
+            "Dialog": 156
+        },
+        {
+            "Dialog": 157
+        },
+        {
+            "Dialog": 158
+        },
+        {
+            "Dialog": 159
+        },
+        {
+            "Dialog": 160
+        },
+        {
+            "Dialog": 161
+        },
+        {
+            "Dialog": 162
+        },
+        {
+            "Dialog": 163
+        },
+        {
+            "Dialog": 164
+        },
+        {
+            "Dialog": 165
+        },
+        {
+            "Dialog": 166
+        },
+        {
+            "Dialog": 167
+        },
+        {
+            "Dialog": 168
+        },
+        {
+            "Dialog": 169
+        },
+        {
+            "Dialog": 170
+        },
+        {
+            "Dialog": 171
+        },
+        {
+            "Dialog": 172
+        },
+        {
+            "Dialog": 173
+        },
+        {
+            "Dialog": 174
+        },
+        {
+            "Dialog": 175
+        },
+        {
+            "Dialog": 176
+        },
+        {
+            "Dialog": 177
+        },
+        {
+            "Dialog": 178
+        },
+        {
+            "Dialog": 179
+        },
+        {
+            "Dialog": 180
+        },
+        {
+            "Dialog": 181
+        },
+        {
+            "Dialog": 182
+        },
+        {
+            "Dialog": 183
+        },
+        {
+            "Dialog": 184
+        },
+        {
+            "Dialog": 185
+        },
+        {
+            "Dialog": 186
+        },
+        {
+            "Dialog": 187
+        },
+        {
+            "Dialog": 188
+        },
+        {
+            "Dialog": 189
+        },
+        {
+            "Dialog": 190
+        },
+        {
+            "Dialog": 191
+        },
+        {
+            "Dialog": 192
+        },
+        {
+            "Dialog": 193
+        },
+        {
+            "Dialog": 194
+        },
+        {
+            "Dialog": 195
+        },
+        {
+            "Dialog": 196
+        },
+        {
+            "Dialog": 197
+        },
+        {
+            "Dialog": 198
+        },
+        {
+            "Dialog": 199
+        },
+        {
+            "Dialog": 200
+        },
+        {
+            "Dialog": 201
+        },
+        {
+            "Dialog": 202
+        },
+        {
+            "Dialog": 203
+        },
+        {
+            "Dialog": 204
+        },
+        {
+            "Dialog": 205
+        },
+        {
+            "Dialog": 206
+        },
+        {
+            "Dialog": 207
+        },
+        {
+            "Dialog": 209
+        },
+        {
+            "Dialog": 210
+        },
+        {
+            "Dialog": 211
+        },
+        {
+            "Dialog": 212
+        },
+        {
+            "Dialog": 213
+        },
+        {
+            "Dialog": 214
+        },
+        {
+            "Dialog": 215
+        },
+        {
+            "Dialog": 216
+        },
+        {
+            "Dialog": 217
+        },
+        {
+            "Dialog": 218
+        },
+        {
+            "Dialog": 219
+        },
+        {
+            "Dialog": 220
+        },
+        {
+            "Dialog": 221
+        },
+        {
+            "Dialog": 222
+        },
+        {
+            "Dialog": 223
+        },
+        {
+            "Dialog": 224
+        },
+        {
+            "Dialog": 225
+        },
+        {
+            "Dialog": 226
+        },
+        {
+            "Dialog": 227
+        },
+        {
+            "Dialog": 228
+        },
+        {
+            "Dialog": 229
+        },
+        {
+            "Dialog": 230
+        },
+        {
+            "Dialog": 232
+        },
+        {
+            "Dialog": 233
+        },
+        {
+            "Dialog": 234
+        },
+        {
+            "Dialog": 235
+        },
+        {
+            "Dialog": 236
+        },
+        {
+            "Dialog": 237
+        },
+        {
+            "Dialog": 238
+        },
+        {
+            "Dialog": 239
+        },
+        {
+            "Dialog": 240
+        },
+        {
+            "Dialog": 241
+        },
+        {
+            "Dialog": 242
+        },
+        {
+            "Dialog": 243
+        },
+        {
+            "Dialog": 244
+        },
+        {
+            "Dialog": 245
+        },
+        {
+            "Dialog": 246
+        },
+        {
+            "Dialog": 247
+        },
+        {
+            "Dialog": 248
+        },
+        {
+            "Dialog": 249
+        },
+        {
+            "Dialog": 250
+        },
+        {
+            "Dialog": 251
+        },
+        {
+            "Dialog": 252
+        },
+        {
+            "Dialog": 253
+        },
+        {
+            "Dialog": 254
+        },
+        {
+            "Dialog": 255
+        },
+        {
+            "Dialog": 256
+        },
+        {
+            "Dialog": 257
+        },
+        {
+            "Dialog": 258
+        },
+        {
+            "Dialog": 259
+        },
+        {
+            "Dialog": 260
+        },
+        {
+            "Dialog": 261
+        },
+        {
+            "Dialog": 263
+        },
+        {
+            "Dialog": 265
+        },
+        {
+            "Dialog": 266
+        },
+        {
+            "Dialog": 267
+        },
+        {
+            "Dialog": 268
+        },
+        {
+            "Dialog": 269
+        },
+        {
+            "Dialog": 270
+        },
+        {
+            "Dialog": 271
+        },
+        {
+            "Dialog": 272
+        },
+        {
+            "Dialog": 273
+        },
+        {
+            "Dialog": 274
+        },
+        {
+            "Dialog": 275
+        },
+        {
+            "Dialog": 276
+        },
+        {
+            "Dialog": 277
+        },
+        {
+            "Dialog": 278
+        },
+        {
+            "Dialog": 279
+        },
+        {
+            "Dialog": 280
+        },
+        {
+            "Dialog": 281
+        },
+        {
+            "Dialog": 282
+        },
+        {
+            "Dialog": 283
+        },
+        {
+            "Dialog": 284
+        },
+        {
+            "Dialog": 285
+        },
+        {
+            "Dialog": 286
+        },
+        {
+            "Dialog": 287
+        },
+        {
+            "Dialog": 288
+        },
+        {
+            "Dialog": 289
+        },
+        {
+            "Dialog": 290
+        },
+        {
+            "Dialog": 291
+        },
+        {
+            "Dialog": 292
+        },
+        {
+            "Dialog": 293
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "SkinOverlayData": [
+    ],
+    "isGUIOpen": 0b,
+    "MailData": [
+    ],
+    "PlayerName": "PakPacman",
+    "UUID": "d5ae9a6a-928c-42c6-9d39-176569edf03e",
+    "TrackedQuestID": -1
+}

@@ -1,0 +1,84 @@
+# This is the main configuration file for TileEntities.
+# 
+# If you need help with the configuration or have any questions related to Cauldron,
+# join us at the IRC or drop by our forums and leave a post.
+# 
+# IRC: #cauldron @ irc.esper.net ( http://webchat.esper.net/?channel=cauldron )
+# Forums: http://cauldron.minecraftforge.net/
+# 
+# Setting: settings.skip-tileentity-ticks Default: true   # If enabled, turns on tileentity tick skip feature when no players are near.
+# Setting: debug.enable-te-inventory-warning Default: false   # Set true to detect which tileentities with inventory failed to detect size for Bukkit's InventoryType enum. Note: This may detect a false-positive.
+# Setting: settings.prevent-invalid-tileentity-updates Default: true   # Used to determine if a tileentity should tick and if not the TE is added to a ban list. Note: This should help improve performance.
+# Setting: debug.enable-te-can-update-warning Default: false   # Set true to detect which tileentities should not be ticking.
+# Setting: debug.enable-te-place-warning Default: false   # Warn when a mod requests tile entity from a block that doesn't support one
+
+settings:
+  skip-tileentity-ticks: true
+  prevent-invalid-tileentity-updates: true
+debug:
+  enable-te-inventory-warning: false
+  enable-te-can-update-warning: false
+  enable-te-place-warning: false
+config-version: 1
+world-settings:
+  default:
+    net-minecraft-tileentity-TileEntityMobSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityChest:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityBarrel:
+      tick-no-players: false
+      tick-interval: 1
+    noppes-npcs-blocks-tiles-TileBorder:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityFurnace:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityHobbitOven:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityMug:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityPlate:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityFlowerPot:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityGulduril:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityMorgulPortal:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntityAnimalJar:
+      tick-no-players: false
+      tick-interval: 1
+    lotr-common-tileentity-LOTRTileEntitySpawnerChest:
+      tick-no-players: false
+      tick-interval: 1
+    de-maxhenkel-gravestone-tileentity-TileEntityGraveStone:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityEnchantmentTable:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityHopper:
+      tick-no-players: false
+      tick-interval: 1
+    noppes-npcs-blocks-tiles-TileWaypoint:
+      tick-no-players: false
+      tick-interval: 1
+    jds-bibliocraft-tileentities-TileEntityFramedChest:
+      tick-no-players: false
+      tick-interval: 1
+    jds-bibliocraft-tileentities-TileEntityTypewriter:
+      tick-no-players: false
+      tick-interval: 1
+    jds-bibliocraft-tileentities-TileEntityTable:
+      tick-no-players: false
+      tick-interval: 1
