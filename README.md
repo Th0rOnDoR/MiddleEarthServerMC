@@ -8,9 +8,8 @@ Because of GitHub restrictions, i can't upload the map directly
 # How To Install
 
 Clone this repo first, the map is store on Gdrive so you need to download it too
-[MiddleEarth](https://drive.google.com/file/d/19xWdBiw1Pz7J-x5GaP2rHMHu-n_PARqT/view?usp=sharing) is the MiddleEarth part, you need to unzip it and place all the .mca files in world/MiddleEarth(Forge) or world/DIM100 (Mohist)
+[MiddleEarth]() is the MiddleEarth part, you need to unzip it and place all the .mca files in world/MiddleEarth(Forge) or world/DIM100 (Mohist)
+TODO
+# How To Use
 
-# How To Use (This is currently WIP)
-
-To run the forge server, you should start the forge.jar file.
 To run the forge server, you should start the Mohist.jar file

@@ -28,19 +28,19 @@ world-settings:
     net-minecraft-tileentity-TileEntityChest:
       tick-no-players: false
       tick-interval: 1
+    net-minecraft-tileentity-TileEntityFurnace:
+      tick-no-players: false
+      tick-interval: 1
     lotr-common-tileentity-LOTRTileEntityBarrel:
       tick-no-players: false
       tick-interval: 1
-    noppes-npcs-blocks-tiles-TileBorder:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityFurnace:
+    lotr-common-tileentity-LOTRTileEntityMug:
       tick-no-players: false
       tick-interval: 1
     lotr-common-tileentity-LOTRTileEntityHobbitOven:
       tick-no-players: false
       tick-interval: 1
-    lotr-common-tileentity-LOTRTileEntityMug:
+    noppes-npcs-blocks-tiles-TileBorder:
       tick-no-players: false
       tick-interval: 1
     lotr-common-tileentity-LOTRTileEntityPlate:

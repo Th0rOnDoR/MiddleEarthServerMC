@@ -104,6 +104,7 @@
     ],
     "ItemGiversList": [
     ],
+    "AllowAnimation": 0b,
     "QuestData": {
         "CompletedQuests": [
             {
@@ -116,7 +117,7 @@
             },
             {
                 "Quest": 4,
-                "Date": 18331290L
+                "Date": 33546835L
             },
             {
                 "Quest": 5,
@@ -136,11 +137,11 @@
             },
             {
                 "Quest": 9,
-                "Date": 25428526L
+                "Date": 32471558L
             },
             {
                 "Quest": 10,
-                "Date": 25428828L
+                "Date": 33016189L
             },
             {
                 "Quest": 11,
@@ -171,8 +172,12 @@
                 "Date": 25838862L
             },
             {
+                "Quest": 23,
+                "Date": 33526668L
+            },
+            {
                 "Quest": 24,
-                "Date": 18235350L
+                "Date": 33536531L
             },
             {
                 "Quest": 25,
@@ -268,11 +273,11 @@
             },
             {
                 "Quest": 50,
-                "Date": 27518826L
+                "Date": 32929493L
             },
             {
                 "Quest": 51,
-                "Date": 18329081L
+                "Date": 32883735L
             },
             {
                 "Quest": 52,
@@ -311,10 +316,6 @@
                 "Date": 26339208L
             },
             {
-                "Quest": 66,
-                "Date": 25357826L
-            },
-            {
                 "Quest": 67,
                 "Date": 25417037L
             },
@@ -337,6 +338,22 @@
             {
                 "Quest": 73,
                 "Date": 25421632L
+            },
+            {
+                "Quest": 75,
+                "Date": 33128812L
+            },
+            {
+                "Quest": 76,
+                "Date": 33022321L
+            },
+            {
+                "Quest": 80,
+                "Date": 33527024L
+            },
+            {
+                "Quest": 81,
+                "Date": 33547685L
             }
         ],
         "ActiveQuests": [
@@ -1183,6 +1200,90 @@
         },
         {
             "Dialog": 293
+        },
+        {
+            "Dialog": 294
+        },
+        {
+            "Dialog": 295
+        },
+        {
+            "Dialog": 296
+        },
+        {
+            "Dialog": 297
+        },
+        {
+            "Dialog": 298
+        },
+        {
+            "Dialog": 299
+        },
+        {
+            "Dialog": 300
+        },
+        {
+            "Dialog": 301
+        },
+        {
+            "Dialog": 302
+        },
+        {
+            "Dialog": 303
+        },
+        {
+            "Dialog": 304
+        },
+        {
+            "Dialog": 305
+        },
+        {
+            "Dialog": 306
+        },
+        {
+            "Dialog": 307
+        },
+        {
+            "Dialog": 308
+        },
+        {
+            "Dialog": 309
+        },
+        {
+            "Dialog": 310
+        },
+        {
+            "Dialog": 311
+        },
+        {
+            "Dialog": 312
+        },
+        {
+            "Dialog": 314
+        },
+        {
+            "Dialog": 315
+        },
+        {
+            "Dialog": 316
+        },
+        {
+            "Dialog": 317
+        },
+        {
+            "Dialog": 318
+        },
+        {
+            "Dialog": 319
+        },
+        {
+            "Dialog": 320
+        },
+        {
+            "Dialog": 321
+        },
+        {
+            "Dialog": 322
         }
     ],
     "ItemGiverChained": [

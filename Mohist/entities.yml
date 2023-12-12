@@ -82,6 +82,14 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
+    net-minecraft-entity-item-EntityItemFrame:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityHobbit:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
     noppes-npcs-entity-EntityCustomNpc:
       tick-no-players: false
       never-ever-tick: false
@@ -90,23 +98,15 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-npc-LOTREntityGandalf:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     lotr-common-entity-item-LOTREntityBannerWall:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-item-EntityItemFrame:
+    lotr-common-entity-animal-LOTREntityFish:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
     lotr-common-entity-animal-LOTREntityShirePony:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-npc-LOTREntityHobbit:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -118,34 +118,6 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-npc-LOTREntityHobbitBounder:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-npc-LOTREntityBlueDwarf:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-npc-LOTREntityBlueDwarfMerchant:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-npc-LOTREntityRivendellTrader:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-npc-LOTREntityRivendellElf:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    lotr-common-entity-projectile-LOTREntitySmokeRing:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-item-EntityFallingBlock:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     lotr-common-entity-animal-LOTREntityButterfly:
       tick-no-players: false
       never-ever-tick: false
@@ -154,7 +126,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    lotr-common-entity-animal-LOTREntityFish:
+    lotr-common-entity-npc-LOTREntityHobbitBounder:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -167,6 +139,34 @@ world-settings:
       never-ever-tick: false
       tick-interval: 1
     lotr-common-entity-npc-LOTREntityDwarf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityBlueDwarf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityBlueDwarfMerchant:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityRivendellElf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityRivendellTrader:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-projectile-LOTREntitySmokeRing:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lotr-common-entity-npc-LOTREntityGandalf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityFallingBlock:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
